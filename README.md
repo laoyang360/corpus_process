@@ -13,7 +13,6 @@ http://blog.csdn.net/laoyang360
    （参考：http://www.nlpir.org/?action-viewnews-itemid-103），网上也有提供更多种分类的。
 
 分词网上比较NB的几个实验室有：
-
   ### 1）、北京理工大学 nlp 自然语言处理与信息共享检索平台
   http://ictclas.nlpir.org/nlpir/。 
 
