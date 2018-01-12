@@ -12,8 +12,9 @@ http://blog.csdn.net/laoyang360
    现有的复旦大学提供的语料库有20种分类。
    （参考：http://www.nlpir.org/?action-viewnews-itemid-103），网上也有提供更多种分类的。
 
-分词网上比较NB的几个实验室有：
-  ### 1）、北京理工大学 nlp 自然语言处理与信息共享检索平台
+   分词网上比较NB的几个实验室有：
+  
+  ### 1）、北京理工大学 nlp 自然语言处理与信息共享检索平台
   http://ictclas.nlpir.org/nlpir/。 
 
   ### 2）、哈工大“语言云” 以哈工大社会计算与信息检索研究中心研发的 “语言技术平台（LTP）” 
